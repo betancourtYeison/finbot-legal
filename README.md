@@ -5,7 +5,7 @@ para personas con ingresos irregulares en LATAM.
 
 ## 🌐 Página publicada
 
-**https://betancourtyeison.github.io/finbot-legal/**
+**https://appnauta.github.io/finbot-legal/**
 
 Alojada con GitHub Pages desde este repositorio (rama `main`, raíz).
 
@@ -13,8 +13,8 @@ Alojada con GitHub Pages desde este repositorio (rama `main`, raíz).
 
 | Documento | URL |
 |---|---|
-| Política de Privacidad y Tratamiento de Datos | [/finbot-legal/](https://betancourtyeison.github.io/finbot-legal/) |
-| Instrucciones de eliminación de datos | [/finbot-legal/#eliminacion](https://betancourtyeison.github.io/finbot-legal/#eliminacion) |
+| Política de Privacidad y Tratamiento de Datos | [/finbot-legal/](https://appnauta.github.io/finbot-legal/) |
+| Instrucciones de eliminación de datos | [/finbot-legal/#eliminacion](https://appnauta.github.io/finbot-legal/#eliminacion) |
 
 Estas URLs están registradas en la app **Finbot** de Meta for Developers
 (Privacy policy URL y User data deletion), requisito para operar sobre la
